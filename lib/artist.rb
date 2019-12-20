@@ -1,5 +1,5 @@
 class Artist
-  attr_accessor :name :post
+  attr_accessor :name
   
 
 
